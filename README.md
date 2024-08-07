@@ -1,6 +1,7 @@
 Pre-Entrega 3 🎯
 
-La Pre-entrega 3 requerirá que elabores con tu equipo un proyecto utilizando Node.js y MySQL, acompañado de una documentación adecuada. A continuación, se detalla una 🚦Guía a seguir:
+proyecto utilizandorealizado Node.js y MySQL,
+
 Diseño del Modelo de Datos
 1. Análisis del archivo trailerflix.json:
 
@@ -71,6 +72,7 @@ Publicación del Proyecto
         El código del proyecto Node.js.
         La documentación en formato Markdown.
 -----
+
 dependencias necesarias para el correcto funcionamiento:
 
 "dependencies": {
@@ -81,3 +83,4 @@ dependencias necesarias para el correcto funcionamiento:
     "node": "^22.6.0",
     "sequelize": "^6.37.3"
 }
+![alt text](<Captura de pantalla (46).png>) ![alt text](<Captura de pantalla (48).png>) ![alt text](<Captura de pantalla (47).png>)
